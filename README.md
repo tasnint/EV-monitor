@@ -9,8 +9,8 @@ A real-time desktop dashboard to simulate and visualize electric vehicle (EV) ba
 This tool is perfect for visual demos, testing analytics workflows, or developing front-end interfaces for smart mobility systems.
 
 ### Demo Video:
-[Click to watch demo] (demo/demo.mp4)
-![Video Thumbail] (demo/thumbnail.png)
+[Click to watch demo](demo/demo.mp4)
+![Video Thumbail]demo/thumbnail.png)
 
 
 ## Features:
